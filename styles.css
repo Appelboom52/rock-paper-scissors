@@ -1,0 +1,21 @@
+.buttons {
+    display: flex;
+    gap: 16px;
+    justify-content: center;
+    padding: 150px;
+}
+
+#displayResult {
+    text-align: center;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+button {
+    font-size: large;
+    background-color: black;
+    color: gold;
+    width: 150px;
+    height: 93px;
+    border-radius: 8px;
+}
